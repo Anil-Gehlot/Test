@@ -5,6 +5,7 @@ class square:
         a=self.side*self.side
         return a
 
+
 # sq1=square()
 # area=sq1.area()
 # print("Area :",area)
