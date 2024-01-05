@@ -7,7 +7,8 @@ class employee:
         self.department=input("Department name : ")
     def show_detail(self):
         print("Employee Id : ",self.employee_Id)
-        print("Name : ",self.name)
+        print("Name : ",self.name)dm fdsf
+        sdf
         print("Address : ",self.contact)
         print("Contact : ",self.address)
         print("Department name : ")
