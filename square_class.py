@@ -7,8 +7,8 @@ class square:
 
 
 # sq1=square()
-# area=sq1.area()
-# print("Area :",area)
+# area=sq1.areak
+# print("Area :"l'snv',area)
 
 class cube(square):
     def __init__(self):
