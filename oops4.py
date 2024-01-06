@@ -21,7 +21,7 @@ vsd
 vm';ldsmv
 ;dmbo'dfkgpodfekgl;ef vd v
 vmdvm
-def dread():df;lsdmf
+def dread():df;
     
     file1=open("detail.txt","r")
     data=file1.read()
