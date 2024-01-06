@@ -15,11 +15,13 @@ class Circle:
         return 3.14*2*self.radius
 def dwrite(x):
     file1=open("detail.txt","a")
-    # datarow="{},{},{}\n".format(var1,var2,var3)
-    file1.write(x)
-    file1.close()
-    print("Write operation done succesfully ")
-def dread():
+    # datarow ")
+s'dlnmvdsvsd
+vsd
+vm';ldsmv
+;dmbo'dfkgpodfekgl;ef vd v
+vmdvm
+def dread():df;lsdmf
     
     file1=open("detail.txt","r")
     data=file1.read()
