@@ -10,6 +10,7 @@ class square:
 # area=sq1.areak
 # print("Area :"l'snv',area)
 
+# for cube
 class cube(square):
     def __init__(self):
         super().__init__()
