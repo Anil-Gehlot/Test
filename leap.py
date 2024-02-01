@@ -8,5 +8,3 @@ else:
    # ------------------------------------
     ##4 se h to 100 se ni hona chiye
     ###4,400,100 teeno se ho to leap yaer
-
-    
