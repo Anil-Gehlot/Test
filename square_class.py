@@ -4,8 +4,7 @@ class square:
     def area(self):
         a=self.side*self.side
         return a
-
-
+        
 # sq1=square()
 # area=sq1.areak
 # print("Area :"l'snv',area)
