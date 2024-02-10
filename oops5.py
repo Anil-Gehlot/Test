@@ -26,4 +26,3 @@ s1=Student()
 s1.generate_rollno()
 s1.show_detail() 
 print(roll_no)1
-
