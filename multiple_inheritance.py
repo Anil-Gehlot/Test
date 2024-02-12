@@ -62,3 +62,14 @@ s3.show_detail()
 s3.dept_employee_detail()
 s3.show_all
 
+
+
+
+
+
+
+
+
+
+
+
